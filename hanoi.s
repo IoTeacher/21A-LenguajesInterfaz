@@ -4,6 +4,10 @@
    @@Autor : Perez Rojas Jairo JAziel
    @@Repositorio:
 @@@@
+@Reglas
+@Solo se puede mover un disco cada vez y para mover otro los demás tienen que estar en postes.
+@Un disco de mayor tamaño no puede estar sobre uno más pequeño que él mismo.
+@Solo se puede desplazar el disco que se encuentre arriba en cada poste
 @   hanoi.s
 @   D. Thiebaut
 @   Recursive towers of Hanoi
