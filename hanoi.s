@@ -1,3 +1,9 @@
+@@@Instituto tecnologico de tijuana 
+   @@Depto de sistemas  y computacion 
+   @@Ing. En sistemas computacionales 
+   @@Autor : Perez Rojas Jairo JAziel
+   @@Repositorio:
+@@@@
 @   hanoi.s
 @   D. Thiebaut
 @   Recursive towers of Hanoi
