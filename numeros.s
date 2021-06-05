@@ -1,3 +1,10 @@
+@@@Instituto tecnologico de tijuana 
+   @@Depto de sistemas  y computacion 
+   @@Ing. En sistemas computacionales 
+   @@Autor : Perez Rojas Jairo JAziel
+   @@Repositorio:
+@@@@
+@
 @ num_in.s
 @ get user input ready to do maths
 
